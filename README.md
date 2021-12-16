@@ -46,3 +46,4 @@
 * docker network disconnect [network name] [container name] (disconnect a network from container)
 * docker-compose up (up the docker containers from docker-compose file)
 * docker-compose exec [taks] (Execute a task from docker-compose configurated in docker-compose file services)
+* docker-compose up -d --scale [service = quantity] (set the numbers of instances you would want for the container service)
