@@ -2,9 +2,8 @@
 * This project is a simple overview about docker and yours awesomes functionality.
 
 # Running containers
-* A database container
+* Adatabase container
 * A frontend container
-* A backend container
 
 # Highlights
 * volumes
